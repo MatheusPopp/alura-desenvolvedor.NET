@@ -10,6 +10,11 @@ namespace CriandoVariaveis
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá novo teste");
+
+            int idade = 37;
+
+            Console.WriteLine("A idade é " + idade + ", parabéns!");
         }
     }
 }
